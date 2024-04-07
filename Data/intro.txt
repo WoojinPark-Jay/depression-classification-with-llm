@@ -14,7 +14,7 @@ Group 1 : Depression-related
 subreddit : Depression, AnxietyDepression
 
 Group 2 : Neutral-related 
-subreddit : Technology, AutoNewspaper, EconNews
+subreddit : Technology, AutoNewspaper
 
 Group 1 : Happy-related
 subreddit : Happy, Mademesmile, Unexpectedlywholesome
@@ -27,7 +27,6 @@ https://www.reddit.com/r/AnxietyDepression/
 
 Neutral-related https://www.reddit.com/r/AutoNewspaper/
 https://www.reddit.com/r/technology/
-https://www.reddit.com/EconNews
 
 Happy-related
 https://www.reddit.com/r/Positivity/
