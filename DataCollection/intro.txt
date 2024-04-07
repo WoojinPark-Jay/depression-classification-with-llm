@@ -18,17 +18,30 @@ subreddit : Happy, Mademesmile, Unexpectedlywholesome
 
 
 
+### For the classification step,
+We have 3 different groups of data : Depression-related / Neutral-related / Happy-related
+and each group consists of related sub-reddit groups 
+
+Group 1 : Depression-related 
+subreddit : Depression, AnxietyDepression
+
+Group 2 : Neutral-related 
+subreddit : Technology, AutoNewspaper, EconNews
+
+Group 1 : Happy-related
+subreddit : Happy, Mademesmile, Unexpectedlywholesome
+
+
 ### Reference(s) 
-Depression
+Depression-related 
 https://www.reddit.com/r/depression/
 https://www.reddit.com/r/AnxietyDepression/
 
-Happy
+Neutral-related https://www.reddit.com/r/AutoNewspaper/
+https://www.reddit.com/r/technology/
+https://www.reddit.com/EconNews
+
+Happy-related
 https://www.reddit.com/r/Positivity/
 https://www.reddit.com/r/MadeMeSmile/
 https://www.reddit.com/r/happy/
-
-Neutral
-https://www.reddit.com/r/AutoNewspaper/
-https://www.reddit.com/r/technology/
-https://www.reddit.com/EconNews
