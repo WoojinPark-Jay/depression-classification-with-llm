@@ -1,0 +1,3 @@
+We have applied two different methodologies for scraping the reddit community data
+### Methodology 1. Reddit praw api
+### Methodology 2. Reddit archive data dump (https://the-eye.eu/redarcs/) 
