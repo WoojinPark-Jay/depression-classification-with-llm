@@ -1,1 +1,5 @@
-
+There are two types of source data (parquet) : 
+1. raw submission data 
+    ex. anxiety_depression_submissions.parquet
+2. pre-processed data 
+    ex. anxiety_depression_submissions_preprocessed.parquet
