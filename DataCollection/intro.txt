@@ -13,8 +13,8 @@ subreddit : Depression, AnxietyDepression
 Group 2 : Neutral-related 
 subreddit : Technology, AutoNewspaper
 
-Group 1 : Happy-related
-subreddit : Happy, Mademesmile, Unexpectedlywholesome
+Group 3 : Happy-related
+subreddit : Happy, Mademesmile, Unexpectedlywholesome, Positivity
 
 
 
@@ -26,10 +26,10 @@ Group 1 : Depression-related
 subreddit : Depression, AnxietyDepression
 
 Group 2 : Neutral-related 
-subreddit : Technology, AutoNewspaper, EconNews
+subreddit : Technology, AutoNewspaper
 
-Group 1 : Happy-related
-subreddit : Happy, Mademesmile, Unexpectedlywholesome
+Group 3 : Happy-related
+subreddit : Happy, Mademesmile, Unexpectedlywholesome, Positivity
 
 
 ### Reference(s) 
@@ -44,3 +44,4 @@ Happy-related
 https://www.reddit.com/r/Positivity/
 https://www.reddit.com/r/MadeMeSmile/
 https://www.reddit.com/r/happy/
+https://www.reddit.com/r/Unexpectedlywholesome/
