@@ -17,7 +17,7 @@ Group 2 : Neutral-related
 subreddit : Technology, datascience, AskScienceDiscussion, webdev
 
 Group 1 : Happy-related
-subreddit : Positivity, Happy, Mademesmile, Unexpectedlywholesome
+subreddit : Positivity, Happy, Mademesmile, Unexpectedlywholesome, CongratsLikeImFive
 
 
 ### Reference(s) 
@@ -36,3 +36,4 @@ https://www.reddit.com/r/Positivity/
 https://www.reddit.com/r/MadeMeSmile/
 https://www.reddit.com/r/happy/
 https://www.reddit.com/r/Unexpectedlywholesome/
+https://old.reddit.com/r/CongratsLikeImFive/
