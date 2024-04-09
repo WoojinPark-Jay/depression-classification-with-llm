@@ -14,7 +14,7 @@ Group 1 : Depression-related
 subreddit : Depression, AnxietyDepression
 
 Group 2 : Neutral-related 
-subreddit : Technology, datascience, AskScienceDiscussion
+subreddit : Technology, datascience, AskScienceDiscussion, webdev
 
 Group 1 : Happy-related
 subreddit : Positivity, Happy, Mademesmile, Unexpectedlywholesome
@@ -29,6 +29,7 @@ Neutral-related
 https://www.reddit.com/r/technology/
 https://www.reddit.com/r/datascience/
 https://www.reddit.com/r/AskScienceDiscussion/
+https://www.reddit.com/r/webdev/
 
 Happy-related
 https://www.reddit.com/r/Positivity/
