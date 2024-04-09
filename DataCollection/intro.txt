@@ -15,7 +15,7 @@ Group 2 : Neutral-related
 subreddit : Technology, AutoNewspaper, datascience
 
 Group 1 : Happy-related
-subreddit : Happy, Mademesmile, Unexpectedlywholesome
+subreddit : Positivity, Happy, Mademesmile, Unexpectedlywholesome
 
 
 ### Reference(s) 
