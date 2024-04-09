@@ -14,7 +14,7 @@ subreddit : Depression, AnxietyDepression
 Group 2 : Neutral-related 
 subreddit : Technology, datascience, AskScienceDiscussion, webdev
 
-Group 1 : Happy-related
+Group 3 : Happy-related
 subreddit : Positivity, Happy, Mademesmile, Unexpectedlywholesome, CongratsLikeImFive
 
 
