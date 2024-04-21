@@ -11,6 +11,10 @@ Despite my efforts to focus on the positives, the feeling of despair remains, ma
 However, amidst these moments of happiness, there's an underlying feeling of sorrow that I can't seem to shake off, stemming from unresolved conflicts or distant relationships. 
 Despite the warmth of family connections, the weight of melancholy prevails, casting a shadow over our interactions and leaving me yearning for deeper connection and understanding."
 
+4."Even though the halls are filled with laughter and chatter, there's this feeling weighing on me. 
+It's like riding the wave of excitement while also carrying a bit of sadness, a reminder that life isn't always sunshine and rainbows.
+Despite the energy around me, there's a cloud in my mind, making everything seem a bit less bright.
+It's a mix of happy and sad, like a seesaw where neither side is quite up or down.  But I still hold onto hope, believing things will get better, even if they're a bit uncertain right now."
 
 
 << Happy : Example Corpus >>
