@@ -31,3 +31,16 @@ Even though the pressure gets to me, the joy of accomplishment outweighs the str
 Despite the challenges, those small victories keep me motivated, reminding me that perseverance pays off."
 
 
+<< Neutral : Example Corpus >>
+
+1. "Recent studies suggest that the new policy implemented by the government has elicited a mixed response from experts in the field. 
+While some argue for its potential benefits in addressing socioeconomic disparities, others remain skeptical, citing potential unintended consequences. 
+Despite the divergent opinions, further research is needed to assess the long-term implications of this policy shift."
+
+2. "In the latest quarterly report, the company announced steady growth in revenue and market share, signaling stability in the face of economic uncertainty. 
+However, analysts caution against complacency, highlighting potential challenges in the competitive landscape and evolving consumer preferences. 
+Despite the cautious outlook, the company remains optimistic about its prospects for future growth."
+
+3. "The findings from the survey reveal a nuanced perspective on the issue, with respondents expressing a range of viewpoints.
+While some respondents voiced support for the proposed initiative, others expressed reservations, citing concerns about feasibility and implementation challenges. 
+Despite the differing opinions, there is consensus on the need for further dialogue and collaboration to address the complex issues at hand."
