@@ -1,0 +1,33 @@
+<< Depression : Example Corpus >>
+1. "During school days, there are moments when I feel a sense of happiness, perhaps when I receive praise from a teacher or when I achieve a personal goal. 
+However, underlying that happiness, there's often a deeper feeling of despair, like when I struggle to keep up with my classmates or when I feel isolated in a crowd. 
+Even though there are moments of joy, the weight of hopelessness seems to overshadow them, leaving me feeling more alone than ever."
+
+2. "At work, there are instances when I experience moments of contentment, such as when I finish a project ahead of schedule or receive positive feedback from a colleague.
+Yet, despite these brief moments of happiness, there's a persistent sense of emptiness that lingers, stemming from feelings of insecurity or dissatisfaction with my career. 
+Despite my efforts to focus on the positives, the feeling of despair remains, making it difficult to fully enjoy the successes I achieve."
+
+3. "Within my family, there are times when I share moments of laughter and love with my loved ones, cherishing the bonds we share.
+However, amidst these moments of happiness, there's an underlying feeling of sorrow that I can't seem to shake off, stemming from unresolved conflicts or distant relationships. 
+Despite the warmth of family connections, the weight of melancholy prevails, casting a shadow over our interactions and leaving me yearning for deeper connection and understanding."
+
+
+
+<< Happy : Example Corpus >>
+1. "During school days, there are moments when I feel down, maybe because of a bad grade or a disagreement with a friend. 
+But amidst those gloomy times, there are also moments of happiness, like when I solve a problem I've been struggling with or when I share a laugh with my classmates. 
+Even though the sad moments weigh on me, the happiness I feel is a bit stronger. It's like finding a small flower blooming in the midst of a barren field, a tiny glimmer of light in the darkness. 
+Despite the challenges, those moments of joy keep me going, reminding me that there's always something to smile about, even in the toughest of times."
+
+2. "During family gatherings, there are occasions when tensions run high, perhaps due to disagreements or unresolved conflicts. 
+But amid the occasional conflicts, there are also moments of happiness, like when we share stories and laughter around the dinner table or reminisce about fond memories. 
+Even though arguments may arise, the warmth of family bonds prevails. It's like finding harmony in the midst of discord, a glimmer of love amidst the strife. 
+Despite the occasional disagreements, those moments of connection keep us united, reminding us of the strength of family ties."
+
+
+3. "At work, there are days when I feel overwhelmed, especially when deadlines are looming or when I face criticism from my boss. 
+But in the midst of those stressful times, there are also moments of happiness, like when I successfully complete a project or receive recognition for my hard work. 
+Even though the pressure gets to me, the joy of accomplishment outweighs the stress. It's like finding a silver lining in a stormy sky, a brief moment of relief amidst the chaos. 
+Despite the challenges, those small victories keep me motivated, reminding me that perseverance pays off."
+
+
